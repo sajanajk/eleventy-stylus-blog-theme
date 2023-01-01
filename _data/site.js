@@ -1,7 +1,7 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "European News Wire",
+    description: "Latest News in Europe.",
     lang: "en",
     siteUrl: "https://example.com/",
   },
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "johndoe@example.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Read Daily Updates on Europe",
+    description: "European News Wire is Europe's most trusted news source about latest ongoings within the region."
   }
 }
