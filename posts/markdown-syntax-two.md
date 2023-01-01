@@ -1,7 +1,7 @@
 ---
 author: Me
 title: Croatia welcomes the new year by joining Eurozone and Schengen area 
-date: 2021-03-24
+date: 2023-01-01
 description: Croatia is now a part of the EU.
 tags:
  - Croatia
