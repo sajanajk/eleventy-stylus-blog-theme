@@ -6,7 +6,6 @@ description: Ukraine war - Zelenskyy and Putin both promise victory in New Year 
 tags:
   - Ukraine
   - Russia
-  - New Year
 ---
 
 The leaders of Ukraine and Russia both vowed to push for victory in New Year speeches, but while Volodymyr Zelenskyy spoke of gratitude and pain, Vladimir Putin urged duty to Russia, casting the war as a near-existential fight.
