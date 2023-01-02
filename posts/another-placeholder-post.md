@@ -1,6 +1,6 @@
 ---
 author: "Me"
-title: Ukraine war: Zelenskyy and Putin both promise victory in New Year speeches
+title: Ukraine war - Zelenskyy and Putin both promise victory in New Year speeches
 date: 2021-03-20
 description: Ukraine war: Zelenskyy and Putin both promise victory in New Year speeches
 tags:
