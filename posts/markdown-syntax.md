@@ -1,7 +1,7 @@
 ---
 author: Me
 title: Pope Francis and world leaders pay tribute to Benedict XVI
-date: 2023-01-02
+date: 2023-01-01
 description: Pope Francis and world leaders pay tribute to Benedict XVI
 tags:
  - Catholic church 
