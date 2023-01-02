@@ -11,7 +11,7 @@ tags:
 
 France is urging all European Union countries to start testing passengers arriving from China for COVID, amid an outbreak sweeping the Asian nation. 
 
-So far the only EU countries to require testing are France, Italy and Spain -- plus the United Kingdom outside the bloc -- with EU officials failing to agree a common position at a meeting in Brussels before Christmas. 
+So far the only EU countries to require testing are France, Italy and Spain -plus the United Kingdom outside the bloc - with EU officials failing to agree a common position at a meeting in Brussels before Christmas. 
 
 More EU talks will take place this week. 
 
