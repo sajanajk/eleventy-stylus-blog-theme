@@ -1,6 +1,6 @@
 ---
 title: About European News Wire 
-description: All about us in this page
+description: All about us in this page.
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
