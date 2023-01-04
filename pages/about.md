@@ -19,3 +19,11 @@ One of the key features is our commitment to impartial reporting. The website is
 
 Overall, European News Wire is a valuable resource for anyone looking to stay informed about the latest developments in Europe and beyond. Whether you're interested in politics, business, sports, or culture, we have got you covered with our comprehensive and impartial coverage of the issues that matter most.
 
+## Our Editors
+
+Editor-in-Chief - Eric Johann </br>
+Sr. Editor - Charles Levinn </br>
+Editor - Jay Kalansooriya </br>
+Editor - Vanessa Wu </br>
+Editor - Maria Garza </br>
+Copywriter - Elena Murphy </br>
